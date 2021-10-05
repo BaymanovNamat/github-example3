@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(233, 99, 188);
+}
 h1{
   color: rgba(255, 0, 0, 0.979);
 }
@@ -63,4 +66,73 @@ abbr {
 }
 #example6 {
   font-size: 25px;
+}
+section {
+  font-size: 24px;
+}
+.background-red03 {
+  background-color: red;
+}
+h3 {
+  color: blue;
+}
+.background-pink {
+  background-color: rgba(255, 192, 203, 0.986);
+}
+#example7 {
+  font-size: 30px;
+}
+a {
+  color: black;
+}
+.background-broun {
+  background-color: rgb(190, 111, 8);
+}
+#example8 {
+  font-size: 25px;
+}
+span {
+  font-size: 25px;
+}
+div {
+  font-size: 35px;
+}
+blockquote {
+  background-color: rgb(57, 161, 83);
+}
+#ex {
+  font-size: 30px;
+}
+q {
+  background-color: indigo;
+}
+#exa {
+  font-size: 25px;
+}
+.li {
+  color: rgba(245, 245, 220, 0.979);
+}
+dl {
+  font-size: 30px;
+}
+dt {
+  color: chartreuse;
+}
+dd {
+  color: blue;
+}
+#clll {
+  font-size: 45px;
+}
+#to {
+  font-size: 35px;
+}
+tfoot {
+  color: red;
+}
+.ggg {
+  color: rgb(3, 141, 3);
+}
+table {
+  background-color: pink;
 }
