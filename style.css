@@ -7,3 +7,22 @@ h1{
 #example {
   font-size: 45px;
 }
+p {
+  color: rgba(5, 5, 231, 0.979);
+}
+.background-pink {
+  background-color: rgb(255, 192, 192);
+}
+#example1 {
+  font-size: 30px;
+}
+article {
+  color: rgba(235, 6, 6, 0.979);
+}
+.background-green1 {
+  background-color: rgb(5, 206, 5);
+}
+#example2 {
+  font-size: 25px;
+}
+
