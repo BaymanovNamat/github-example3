@@ -25,4 +25,42 @@ article {
 #example2 {
   font-size: 25px;
 }
-
+.cls {
+  color: rgba(240, 10, 10, 0.979);
+}
+h2 {
+  color: rgba(0, 0, 0, 0.979);
+}
+.cyan {
+  background-color: rgba(8, 252, 252, 0.973);
+}
+#example3 {
+  font-size: 24px;
+}
+.eye {
+  background-color: rgba(252, 142, 8, 0.979);
+}
+#eye1 {
+  font-size: 20px;
+}
+.background-blue {
+  background-color: blue;
+}
+#example4 {
+  font-size: 30px;
+}
+abbr {
+  color: rgba(255, 255, 255, 0.993);
+}
+.background-black {
+  background-color: black;
+}
+#example5 {
+  font-size: 24px;
+}
+.background-blue1 {
+  background-color: rgb(255, 0, 0);
+}
+#example6 {
+  font-size: 25px;
+}
